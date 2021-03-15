@@ -52,7 +52,7 @@ education:
       university: 
       time: 2021 - Current
       details: |
-        To be decided ! 
+        To be decided.. 
     - degree: BSc in Computer Science and Engineering
       university: Sogang University
       time: 2016 - 2021
@@ -61,6 +61,11 @@ education:
           - C Programming, Data structure, Discrete Math, Assembly Language
           - Introduction to Computer Network, Systems programming, Introduction to Parallel and Distributed computing, Spatial Data Management, and Applications
 experiences:
+    - role: Data Labeler
+      time: 2021 
+      company: May-i, Seoul
+      details: |
+        Take weekly batches of data, and label it according to the project requirements with a sufficient level of accuracy. Responsible for the quality assurance of all data sets.
     - role: Research Intern
       time: 2020 
       company: Natural Language Processing Lab at Sogang University, Seoul
