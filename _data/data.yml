@@ -45,14 +45,14 @@ career-profile:
     title: Career Profile
     summary: |
       An individual with strong programming and machine learning skills
-      seeking for internship opportunity in software engineering. 
+      seeking for an internship opportunity in software development 
      
 education:
     - degree: MSc in Computer Science
       university: 
       time: 2021 - Current
       details: |
-        Undecided
+        To be decided ! 
     - degree: BSc in Computer Science and Engineering
       university: Sogang University
       time: 2016 - 2021
@@ -82,30 +82,22 @@ experiences:
           - Assisted by Professor. Eric Matson and Professor. Anthony Smith to build a smart parking lot system using OpenCV and RasberryPi 
 projects:
     title: Projects
-    intro: >
-      You can list your side projects or open source libraries in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
     assignments:
-      - title: Velocity
-        link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+      - title: Full-Page Hangul Handwriting Recognition Service Using ML Models
+        link: "https://github.com/itsnamgyu/calligram/"
+        tagline: "Designed and implemented image preprocessing and augmentation method to train a deep neural network model to recognize full page Korean handwriting documents. Analyzed data to obtain important features, devised data using train_test_split. The evaluation result for the model was 76.6%."
 
-      - title: DevStudio
-        link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
+      - title: Dialog State Tracking Challenge (DSTC 9)
+        link: "https://github.com/facebookresearch/simmc/"
+        tagline: "Participated in Facebook research team’s Situated Interactive Multimodal Conversational AI (SIMMC) challenge.  Performed the statistical analysis and fine-tuning using test results and adjusted GPT libraries to enable ensemble learning for response generation. Our dialogue system ranked 1st place on Subtask 2-generation, 2nd place on Subtask 2-retrieval, and 1st place on Subtask 3 dialog state tracking. "
 
-      - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+      - title: Loot Game store platform 
+        link: "https://lootgames.co/"
+        tagline: "Designed and implemented Spring Boot microservices for Playphone’s mobile game store, including subscription service and prize service, and internal admin portal.  Improved search service using Cassandra search engine. Wrote shell scripts to automate wrapping thousands of mobile games with Playphone Inc’s SDK. Set up an end-to-end process in Jenkins to execute the wrapping process"
 
-      - title: Atom
+      - title: Smart Parking lot Security System 
         link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+        tagline: "Participated in a four-person team project to develop a smart park lot security system, which automatically opens the gate bar for vehicles that are registered through an android app. Used an ultrasonic sensor on a raspberry pi to detect motion and OpenAlpr to detect and read the plate number."
 
 publications:
     title: Publications
@@ -114,20 +106,15 @@ publications:
       amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
       bibendum fringilla a eu lectus.
     papers:
-      - title: The Art of Computer Programming
-        link: "#"
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
+      - title: "TOM : End-to-End Task-Oriented Multimodal Dialog System with GPT-2"
+        link: "https://drive.google.com/file/d/1_-F_7mGcmmIm7S5IyH-puVZM5uelp7nu/view"
+        authors: Younghoon Jeong, Se Jin Lee, Youngjoong Ko, Jungyun Seo
+        conference: AAAI DSTC 9 Workshop 2021
 
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-        link: "#"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
-
-      - title: A syntax directed compiler for Algol 60
-        link: "#"
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
+      - title: "A Full-Page Hangul Handwriting Recognition Service Using OrigamiNet Models"
+        link: "https://www.dbpia.co.kr/journal/iprdDetail?iprdId=IPRD00012680"
+        authors: 허남규, 이세진, 김혜인, 황지영, 구명완
+        conference: "The HCI Korea 2021"
 
 skills:
     title: Skills &amp; Proficiency
