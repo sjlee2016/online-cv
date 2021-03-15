@@ -40,45 +40,68 @@ sidebar:
       - item: Jazz
         link:
 
+
 career-profile:
     title: Career Profile
-    summary: An individual with strong programming and machine learning skills, | seeking for internship opportunity in software engineering / machine learning to advance my career as a software engineer.
-    - Proficient in writing SQL and noSQL and handle databases like mySQL, CassandraDB and mongoDB
-    - Knowledge in various web frameworks : Java Spring, ExpressJS, ReactJS
-    - Experienced with working in fast-paced agile development environments.
-    - Hands-on experience in implementing feature selection, linear regression, logistic regression to train and test huge data sets.
-
+    summary: |
+      An individual with strong programming and machine learning skills
+      seeking for internship opportunity in software engineering. 
+     
 education:
     - degree: MSc in Computer Science
-      university: Undecided
+      university: 
       time: 2021 - Current
-      details: Undecided
+      details: |
+        Undecided
     - degree: BSc in Computer Science
       university: Sogang University
       time: 2016 - 2021
-      details: Graduated with Honors(Cum laude) 
-          - C Programming, Data structure, Discrete Math, Assembly Language
-          - Introduction to Computer Network, Systems programming, Introduction to Parallel and Distributed computing, Spatial Data Management, and Applications
-
+      details: |
+        Describe your study here lorem ipsum dolor sit amet, consectetuer
+        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
+        sociis natoque penatibus et magnis dis parturient montes, nascetur
+        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
+        pretium quis, sem.
+          - Bullet point
+          - Bullet point
 experiences:
-    - role: Research Intern
-      time: 2020
-      company: Natural Language Processing Lab at Sogang University, Seoul
-      details: Participated in the Dialog System Technology Challenge 9, focusing on improving the Facebook research team’s situated interactive multimodal conversational AI. 
-    - role: Backend Intern
-      time: 2018 - 2019
-      company: Playphone Inc, San Jose
+    - role: Lead Developer
+      time: 2015 - Present
+      company: Startup Hubs, San Francisco
       details: |
-          - Developed server software utilizing Java to power the backend of PlayPhone mobile social gaming platform. 
-          - Designed and optimized database to allow for high scalability among users. 
-          - Bug fixes and optimizations from previous/existing engineering contributors to make the platform operate more efficiently.
-   - role: Summer Capstone Program Participant
-      time: 2018
-      company: Purdue University, West Lafayette, Indiana
+        Describe your role here lorem ipsum dolor sit amet, consectetuer
+        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
+        Cum sociis natoque penatibus et magnis dis parturient montes,
+        nascetur ridiculus mus. Donec quam felis, ultricies nec,
+        pellentesque eu, pretium quis, sem. Nulla consequat massa quis
+        enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
+        error sit voluptatem accusantium doloremque laudantium, totam rem
+        aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
+        architecto beatae vitae dicta sunt explicabo.
+          - Bullet point
+          - Bullet point
+    - role: Senior Software Engineer
+      time: 2014 - 2015
+      company: Google, London
       details: |
-        - Selected and funded by the National Program of Excellence in Software of Korea to participate in the summer capstone program at Purdue University. 
-        - Assisted by Professor. Eric Matson and Professor. Anthony Smith to build a smart parking lot system using OpenCV and RasberryPi 
-
+        Describe your role here lorem ipsum dolor sit amet, consectetuer
+        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
+        Cum sociis natoque penatibus et magnis dis parturient montes,
+        nascetur ridiculus mus. Donec quam felis, ultricies nec,
+        pellentesque eu, pretium quis, sem.
+          - Bullet point
+          - Bullet point
+    - role: UI Developer
+      time: 2012 - 2014
+      company: Amazon, London
+      details: |
+        Describe your role here lorem ipsum dolor sit amet, consectetuer
+        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
+        Cum sociis natoque penatibus et magnis dis parturient montes,
+        nascetur ridiculus mus. Donec quam felis, ultricies nec,
+        pellentesque eu, pretium quis, sem.
+          - Bullet point
+          - Bullet point
 projects:
     title: Projects
     intro: >
