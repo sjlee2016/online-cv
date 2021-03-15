@@ -46,7 +46,7 @@ career-profile:
     summary: |
       An individual with strong programming and machine learning skills
       seeking for an internship opportunity in software development 
-     
+      Experienced with working in fast-paced agile development environments.
 education:
     - degree: MSc in Computer Science
       university: 
@@ -60,6 +60,13 @@ education:
         Graduated with Honors(Cum Laude)
           - C Programming, Data structure, Discrete Math, Assembly Language
           - Introduction to Computer Network, Systems programming, Introduction to Parallel and Distributed computing, Spatial Data Management, and Applications
+    - degree: Exchange Program
+      university: Chapman University
+      time: 2018
+      details: |
+        Exchange Program
+          - Operating System, Java Programming, Linear Algebra, Programming Language, Game Development
+            
 experiences:
     - role: Data Labeler
       time: 2021 
@@ -135,6 +142,12 @@ skills:
 
       - name: Shell Script & Linux
         level: 85%
+      
+      - name: SQL & noSQL
+        level: 70%
+      
+      
+      
 
 
 footer: >
