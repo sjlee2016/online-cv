@@ -61,7 +61,7 @@ education:
           - Introduction to Computer Network, Systems programming, Introduction to Parallel and Distributed computing, Spatial Data Management, and Applications
     - degree: Exchange Program
       university: Chapman University
-      time: 2018
+      time: 2017
       details: |
         Exchange Program
           - Operating System, Java Programming, Linear Algebra, Programming Language, Game Development
@@ -91,6 +91,12 @@ experiences:
       details: |
         Selected and funded by the National Program of Excellence in Software of Korea to participate in the summer capstone program at Purdue University.
           - Assisted by Professor. Eric Matson and Professor. Anthony Smith to build a smart parking lot system using OpenCV and RasberryPi 
+    - role: Editorial Intern
+      time: 2017
+      company: TopshelfGaming, Irvine
+      details: |
+        published game reviews, opinion-based articles and interview online on TopshelfGaming.net.
+        learned about the intricacies of video game journalism by exploring and practicing clerical skills, factchecking, copy-editing, research, and reporting.
 projects:
     title: Projects
     assignments:
