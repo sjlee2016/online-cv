@@ -63,18 +63,18 @@ education:
 
 experiences:
     - role: Research Intern
-      time: 2020.7 - 2020.11
+      time: 2020
       company: Natural Language Processing Lab at Sogang University, Seoul
       details: Participated in the Dialog System Technology Challenge 9, focusing on improving the Facebook research team’s situated interactive multimodal conversational AI. 
     - role: Backend Intern
-      time: 2018.9 - 2019.6
+      time: 2018 - 2019
       company: Playphone Inc, San Jose
       details: |
           - Developed server software utilizing Java to power the backend of PlayPhone mobile social gaming platform. 
           - Designed and optimized database to allow for high scalability among users. 
           - Bug fixes and optimizations from previous/existing engineering contributors to make the platform operate more efficiently.
    - role: Summer Capstone Program Participant
-      time: 2018.6 - 2018.8
+      time: 2018
       company: Purdue University, West Lafayette, Indiana
       details: |
         - Selected and funded by the National Program of Excellence in Software of Korea to participate in the summer capstone program at Purdue University. 
