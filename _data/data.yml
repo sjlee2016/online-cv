@@ -44,23 +44,21 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      An individual with strong programming and machine learning skills, 
-      seeking for internship opportunity in software engineering / machine learning to advance my career as a software engineer.
-      -  Proficient in writing SQL and noSQL and handle databases like mySQL, CassandraDB and mongoDB
+      An individual with strong programming and machine learning skills, | seeking for internship opportunity in software engineering / machine learning to advance my career as a software engineer.
+      | -  Proficient in writing SQL and noSQL and handle databases like mySQL, CassandraDB and mongoDB
       -  Knowledge in various web frameworks : Java Spring, ExpressJS, ReactJS
       -  Experienced with working in fast-paced agile development environments.
       -  Hands-on experience in implementing feature selection, linear regression, logistic regression to train and test huge data sets.
 education:
     - degree: MSc in Computer Science
-      university: 
+      university: Undecided
       time: 2021 - Current
       details: |
           - Undecided
     - degree: BSc in Computer Science
       university: Sogang University
       time: 2016 - 2021
-      details: |
-      Graduated with Honors(Cum laude)
+      details: Graduated with Honors(Cum laude) | 
           -  C Programming, Data structure, Discrete Math, Assembly Language
           -  Introduction to Computer Network, Systems programming, Introduction to Parallel and Distributed computing, Spatial Data Management, and Applications
 experiences:
