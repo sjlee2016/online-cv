@@ -59,7 +59,8 @@ education:
     - degree: BSc in Computer Science
       university: Sogang University
       time: 2016 - 2021
-      details: Graduated with Honors(Cum laude)
+      details: |
+      Graduated with Honors(Cum laude)
           -  C Programming, Data structure, Discrete Math, Assembly Language
           -  Introduction to Computer Network, Systems programming, Introduction to Parallel and Distributed computing, Spatial Data Management, and Applications
 experiences:
