@@ -53,33 +53,20 @@ education:
       time: 2021 - Current
       details: |
         Undecided
-    - degree: BSc in Computer Science
+    - degree: BSc in Computer Science and Engineering
       university: Sogang University
       time: 2016 - 2021
       details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-          - Bullet point
-          - Bullet point
+        Graduated with Honors(Cum Laude)
+          - C Programming, Data structure, Discrete Math, Assembly Language
+          - Introduction to Computer Network, Systems programming, Introduction to Parallel and Distributed computing, Spatial Data Management, and Applications
 experiences:
-    - role: Lead Developer
-      time: 2015 - Present
-      company: Startup Hubs, San Francisco
+    - role: Research Intern
+      time: 2020 
+      company: Natural Language Processing Lab at Sogang University, Seoul
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-        enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-        error sit voluptatem accusantium doloremque laudantium, totam rem
-        aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-        architecto beatae vitae dicta sunt explicabo.
-          - Bullet point
-          - Bullet point
+        Participated in the Dialog System Technology Challenge 9, focusing on improving the Facebook research team’s situated interactive multimodal conversational AI.
+        
     - role: Senior Software Engineer
       time: 2014 - 2015
       company: Google, London
