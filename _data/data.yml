@@ -47,11 +47,10 @@ career-profile:
       An individual with strong programming and machine learning skills
       seeking for an internship opportunity in software development. Experienced with working in fast-paced agile development environments.
 education:
-    - degree: MSc in Computer Science
-      university: 
+    - degree: Master of Science in Computer Science
+      university: Courant Institute of Mathematical Sciences, New York University
       time: 2021 - Current
       details: |
-        To be decided.. 
     - degree: BSc in Computer Science and Engineering
       university: Sogang University
       time: 2016 - 2021
