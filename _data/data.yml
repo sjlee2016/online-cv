@@ -66,11 +66,11 @@ education:
           - Operating System, Java Programming, Linear Algebra, Programming Language, Game Development
             
 experiences:
-    - role: Data Labeler
-      time: 2021 
-      company: May-i, Seoul
+    - role: Software Engineering Intern
+      time: 2022 
+      company: Facebook, Inc
       details: |
-        Take weekly batches of data, and label it according to the project requirements with a sufficient level of accuracy. Responsible for the quality assurance of all data sets.
+        Summer 2022 Internship at Menlo Park
     - role: Research Intern
       time: 2020 
       company: Natural Language Processing Lab at Sogang University, Seoul
